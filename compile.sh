@@ -1,4 +1,4 @@
 #!/bin/bash
 
-javac /etc/gittest/source/*.java
-g++ /etc/gittest/source/*.cpp
+javac source/*.java
+g++ source/*.cpp
