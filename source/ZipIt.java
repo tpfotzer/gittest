@@ -1,7 +1,11 @@
 import java.util.zip.*;
 import java.io.*;
 public class ZipIt {
-    public static void main(String args[]) throws IOException {
+
+    private ZipIt {
+    }
+
+    public static void main(String[] args) throws IOException {
         if (args.length < 2) {
             System.err.println("usage: java ZipIt Zip.zip file1 file2 file3");
             System.exit(-1);
