@@ -2,7 +2,7 @@ import java.util.zip.*;
 import java.io.*;
 public class ZipIt {
 
-    private ZipIt {
+    private ZipIt() {
     }
 
     public static void main(String[] args) throws IOException {

@@ -1,6 +1,6 @@
 public class LSNumber {
 
-	private LSNumber {
+	private LSNumber() {
 	}
  
         public static void main(String[] args) {
