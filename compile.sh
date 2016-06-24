@@ -1,4 +1,4 @@
 #!/bin/bash
 
 javac source/*.java
-g++ source/*.cpp
+g++ -c source/*.cpp
