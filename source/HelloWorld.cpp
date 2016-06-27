@@ -5,5 +5,7 @@ int main()
 
 	int c = a+d;
 
+	std::cout << "bla bla bla" << std::endl;
+
 	return 0;
 }
