@@ -1,8 +1,9 @@
-#include <iostream>
-
 int main()
 {
-	std::cout << "Is this thing on?" << std::endl;
+	int a = 3;
+	int b = 4;
+
+	int c = a+d;
 
 	return 0;
 }
